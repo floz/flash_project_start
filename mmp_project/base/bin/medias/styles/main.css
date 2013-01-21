@@ -1,0 +1,12 @@
+.abstract
+{
+	text-align: left;
+	autoSize: left;
+	embedFonts: true;
+	selectable: false;
+	wordWrap: false;
+	multiline: false;
+	antiAliasType: advanced;
+	sharpness: -100;
+	thickness: 0;
+}

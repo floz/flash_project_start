@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Moet & Chandon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-26 18:40+0100\n"
+"PO-Revision-Date: 2012-02-01 19:50+0100\n"
+"Last-Translator: Vincent (Blondie) <vincent@callmeblondie.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ../../../../../src\n"
+"X-Poedit-SearchPath-1: ../../../../application\n"
+
+#: ../../../../application/public/layouts/scripts/default/default.phtml:13
+#: ../../../../application/public/layouts/scripts/mobile/default.phtml:5
+msgid "Tag your love with Moët & Chandon Rosé Impérial"
+msgstr "Champagne Rosé Impérial Moët & Chandon, Décoration Romantique Champagne"
+
+#: ../../../../application/public/layouts/scripts/default/default.phtml:19
+#: ../../../../application/public/layouts/scripts/default/default.phtml:32
+#: ../../../../application/public/layouts/scripts/html/default.phtml:32
+#: ../../../../application/public/layouts/scripts/mobile/default.phtml:12
+msgid "Tag your love with Moët et Chandon Rosé Impérial description home"
+msgstr "Découvrez le champagne Moët & Chandon le plus romantique, glamour et séducteur : le Rosé Impérial Moët et Chandon. Décorez votre bouteille de champagne depuis votre ordinateur ou votre portable."
+
+#: ../../../../application/public/layouts/scripts/default/default.phtml:20
+#: ../../../../application/public/layouts/scripts/default/default.phtml:32
+#: ../../../../application/public/layouts/scripts/html/default.phtml:19
+#: ../../../../application/public/layouts/scripts/html/default.phtml:32
+msgid "Mon titre home"
+msgstr "Champagne Rosé Impérial Moët & Chandon, Décoration Romantique Champagne"
+
+#: ../../../../application/public/layouts/scripts/default/default.phtml:21
+#: ../../../../application/public/layouts/scripts/default/default.phtml:32
+#: ../../../../application/public/layouts/scripts/html/default.phtml:20
+#: ../../../../application/public/layouts/scripts/html/default.phtml:32
+msgid "Ma description FB"
+msgstr "Découvrez le champagne Moët & Chandon le plus romantique, glamour et séducteur : le Rosé Impérial Moët et Chandon. Décorez votre bouteille de champagne dans les rues des villes les plus romantiques depuis votre ordinateur ou votre portable."
+
+#: ../../../../application/public/layouts/scripts/html/footer.phtml:2
+msgid "url moet.com"
+msgstr "http://www.moet.com"
+
+#: ../../../../application/public/layouts/scripts/html/footer.phtml:2
+msgid "MOËT.COM"
+msgstr "MOËT.COM"
+
+#: ../../../../application/public/layouts/scripts/html/footer.phtml:3
+msgid "url facebook moet page"
+msgstr "http://www.facebook.com/moet"
+
+#: ../../../../application/public/layouts/scripts/html/footer.phtml:3
+msgid "JOIN US ON FACEBOOK"
+msgstr "Moët on Facebook"
+
+#: ../../../../application/public/layouts/scripts/html/footer.phtml:4
+msgid "LEGAL TERMS"
+msgstr "CONDITIONS LÉGALES"
+
+#: ../../../../application/public/layouts/scripts/html/menu.phtml:3
+#: ../../../../application/public/views/scripts/html/tagyourlove.phtml:5
+msgid "TAG YOUR LOVE IN THE STREETS"
+msgstr "PERSONNALISE MOËT ROSÉ"
+
+#: ../../../../application/public/layouts/scripts/html/menu.phtml:5
+#: ../../../../application/public/views/scripts/html/champagne.phtml:6
+msgid "THE CHAMPAGNE"
+msgstr "LE CHAMPAGNE"
+
+#: ../../../../application/public/layouts/scripts/html/menu.phtml:6
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:16
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:16
+msgid "Graffiti Pack"
+msgstr "L'Etui Graffiti"
+
+#: ../../../../application/public/layouts/scripts/html/menu.phtml:7
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:17
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:16
+msgid "Graffiti Bag"
+msgstr "Le Pack Graffiti"
+
+#: ../../../../application/public/layouts/scripts/html/menu.phtml:8
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:17
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:17
+msgid "Graffiti Case"
+msgstr "Le coffret Rosé Impérial"
+
+#: ../../../../application/public/layouts/scripts/html/menu.phtml:10
+#: ../../../../application/public/views/scripts/html/mobile.phtml:5
+msgid "ROSÉ MOBILE APPS"
+msgstr "L'APPLI MOBILE ROSÉ"
+
+#: ../../../../application/public/layouts/scripts/html/menu.phtml:11
+msgid "FIND MOËT ROSÉ"
+msgstr "DÉGUSTER MOËT ROSÉ"
+
+#: ../../../../application/public/views/scripts/html/champagne.phtml:2
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:2
+msgid "MOET & CHANDON THE CHAMPAGNE GRAFFITI PACK TITLE HTML"
+msgstr "Coffret Graffiti Moët, Bouteille Magnum de Champagne Rosé – Moët & Chandon Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/html/champagne.phtml:3
+msgid "Tag your love with Moët et Chandon Rosé Impérial description champagne"
+msgstr "Découvrez l'étui graffiti : une bouteille de 75cl de champagne Moët & Chandon Rosé Impérial : le plus romantique, glamour et séducteur des champagnes !"
+
+#: ../../../../application/public/views/scripts/html/find.phtml:1
+msgid "MOET & CHANDON THE CHAMPAGNE FIND TITLE HTML"
+msgstr "Acheter et Déguster Moët Rosé Impérial Champagne – Moët & Chandon"
+
+#: ../../../../application/public/views/scripts/html/find.phtml:2
+msgid "Tag your love with Moët et Chandon Rosé Impérial description find"
+msgstr "Découvrez les meilleurs endroits pour acheter ou savourer du Moët Rosé Impérial : le champagne le plus romantique, glamour et séducteur !"
+
+#: ../../../../application/public/views/scripts/html/find.phtml:5
+msgid "FIND MOET ROSÉ"
+msgstr "DÉGUSTER MOËT ROSÉ"
+
+#: ../../../../application/public/views/scripts/html/find.phtml:7
+msgid "French graffiti artist legend and night bird André has selected the best places around to purchase and drink Moët & Chandon Rosé Impérial. Which one will you choose for your next rosé toast?"
+msgstr "Oiseau de nuit et artiste grapheur de légende, André a sélectionné pour vous les meilleurs endroits pour acheter ou savourer du<br/>Moët Rosé ! Où se passera votre prochain toast au Rosé Impérial?"
+
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:2
+msgid "MOET & CHANDON THE CHAMPAGNE GRAFFITI BAG TITLE HTML"
+msgstr "Étui Graffiti Moët, Bouteille de Champagne Rosé – Moët & Chandon Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:3
+msgid "Tag your love with Moët et Chandon Rosé Impérial description champagne graffiti bag"
+msgstr "Découvrez le coffret graffiti : un marqueur et un livret à stickers avec un magnum de 150cl de champagne Moët & Chandon Rosé Impérial : le plus romantique, glamour et séducteur des champagnes !"
+
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:7
+msgid "GRAFFITI BAG"
+msgstr "Le Pack Graffiti"
+
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:8
+msgid "BOTTLE 75CL & PEN"
+msgstr "Bouteille de 75 cl & Marqueur"
+
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:10
+msgid "With this glamorous pack, Moët & Chandon invites you to share your love in a passionate and modern way. Draw your inspiration from graffiti legend André and use the marker to tag the bottle with your own romantic signature: dare to write, declare your feelings and create a luxuriously personalised champagne experience."
+msgstr "Avec cet étui moderne et élégant, Moët & Chandon vous offre la possibilité de marquer de votre main sa célèbre bouteille. Inspirez-vous de l'univers graphique du célèbre André pour rendre unique votre dégustation."
+
+#: ../../../../application/public/views/scripts/html/graffiti-bag.phtml:15
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:15
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:15
+msgid "Visit Moët.com"
+msgstr "Visiter Moët.com"
+
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:2
+msgid "MOET & CHANDON THE CHAMPAGNE GRAFFITI CASE TITLE HTML"
+msgstr "Pack Graffiti Moët, Bouteille de Champagne Rosé – Moët & Chandon Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:3
+msgid "Tag your love with Moët et Chandon Rosé Impérial description champagne graffiti case"
+msgstr "Découvrez le pack graffiti : un marqueur et une bouteille de 75cl de champagne Moët & Chandon Rosé Impérial : le plus romantique, glamour et séducteur des champagnes !"
+
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:7
+msgid "GRAFFITI CASE"
+msgstr "Le coffret Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:8
+msgid "MAGNUM 150CL & GRAFITTI MARKER & STICKERS BOOKLET"
+msgstr "Magnum 150cl & marqueur & Livret Stickers"
+
+#: ../../../../application/public/views/scripts/html/graffiti-case.phtml:10
+msgid "Created exclusively for Moët & Chandon, this luxurious pack invites you to become a master artist in seduction. Use the pink tagging marker and stick your feelings with André’s stickers to personalise the magnum with your own special touch of graffiti glamour."
+msgstr "Créé exclusivement pour Moët & Chandon, ce luxueux pack vous invite à créer un magnum Rosé Impérial unique. Utilisez le marqueur rose et les stickers du graphiste André pour vous exprimer avec une élégance pétillante."
+
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:3
+msgid "Tag your love with Moët et Chandon Rosé Impérial description champagne graffiti pack"
+msgstr "Découvrez l'étui graffiti : une bouteille de 75cl de champagne Moët & Chandon Rosé Impérial : le plus romantique, glamour et séducteur des champagnes !"
+
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:7
+msgid "GRAFFITI PACK"
+msgstr "L'Étui Graffiti"
+
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:8
+msgid "BOTTLE 75CL"
+msgstr "La Bouteille 75cl"
+
+#: ../../../../application/public/views/scripts/html/graffiti-pack.phtml:10
+msgid "Rosé Impérial is the most glamorous and seductive expression of the Moët & Chandon style. As a spontaneous invitation to love, Rosé Impérial distinguishes itself by a radiant colour, an intense fruitiness and flamboyance on the palate. It reflects the diversity of the three champagne grapes (Pinot Noir, Pinot Meunier and Chardonnay) to reveal the magic of the world’s most loved champagne."
+msgstr "Rosé Impérial incarne l’expression la plus spontanée et séductrice du style Moët & Chandon. Il intègre toute la diversité des cépages et des terroirs de Champagne. Son renom tient à sa couleur radieuse, son fruité intense et son palais éclatant. Sa robe rose est rayonnante, à dominante rouge, parée de reflets violets."
+
+#: ../../../../application/public/views/scripts/html/legals.phtml:2
+msgid "MOET & CHANDON - Mentions Légales"
+msgstr "<div style=\"text-align: justify\"><b>MENTIONS LEGALES ET CONDITIONS D'UTILISATION A DESTINATION DES INTERNAUTES</b><br/><br/><b>&Eacute;diteur</b><br/><br/>Le site &laquo; <a href='http://www.moet.com/rose'>www.moet.com/rose</a> &raquo; (le Site) est &eacute;dit&eacute; par la soci&eacute;t&eacute; MHCS, Soci&eacute;t&eacute; en commandite simple au capital de 433 193 798 Euros dont le si&egrave;ge social est situ&eacute; au 9 avenaue de Champagne, 51200 Epernay, immatricul&eacute;e au Registre du Commerce et des Soci&eacute;t&eacute;s de Reims sous le num&eacute;ro 509 553 459. Dans les pr&eacute;sentes mentions l&eacute;gales, toute mention de &laquo; Champagne Mo&euml;t & Chandon&raquo; fait r&eacute;f&eacute;rence &agrave; l’&eacute;tablissement Champagne Mo&euml;t & Chandon de la soci&eacute;t&eacute; MHCS sis 20 avenue de Champagne, 51200 Epernay. T&eacute;l : 03 26 51 20 00 Fax : 03 26 54 84 23 <br/>Editorial director : Arnaud DE SAIGNES<br/><br/><b>Design et mise en ligne</b><br/><br/> La conception fonctionnelle et cr&eacute;ative ont &eacute;t&eacute; r&eacute;alis&eacute;es par la soci&eacute;t&eacute; Blondie Paris - <a href='http://www.callmeblondie.com/' target='_blank'>www.callmeblondie.com</a><br/>Le d&eacute;veloppement a &eacute;t&eacute; r&eacute;alis&eacute; par la soci&eacute;t&eacute; Make Me Pulse - <a href='http://www.makemepulse.com/' target='_blank'>www.makemepulse.com</a><br/><br/><b>H&eacute;bergement</b><br/><br/>  Le site internet www.moet.com/rose est h&eacute;berg&eacute; par l'entreprise Link By Net, dont le si&egrave;ge social se situe Parc du Colombier, 14 rue Jules Saulnier, 93200 Saint Denis, France.<br/>  Tel.: +33 (0)1 48 13 00 00<br/>  Site web : <a href='http://www.linkbynet.com' target='_blank'>www.linkbynet.com</a><br/>  <br/>  En acc&eacute;dant &agrave; ce site internet (ci-apr&egrave;s le Site), vous acceptez l’application des pr&eacute;sentes Conditions d’utilisation. Champagne Mo&euml;t & Chandon peut &agrave; tout moment modifier ou compl&eacute;ter les pr&eacute;sentes Conditions d’utilisation; il vous appartient de les r&eacute;examiner chaque fois que vous acc&eacute;dez au Site. <br />  Le Site est destin&eacute; &agrave; un usage personnel par des personnes ayant l’&acirc;ge l&eacute;gal requis pour la consommation ou l’achat d’alcool dans le pays s&eacute;lectionn&eacute;, pays dans lequel la consommation ou l’achat d’alcool sont l&eacute;gaux. Dans le cas où l’&acirc;ge l&eacute;gal pour la consommation et l’achat diff&egrave;re, l’&acirc;ge retenu sera le plus vieux. Vous voudrez bien quitter imm&eacute;diatement ce Site si vous n’acceptez pas les pr&eacute;sentes Conditions d’utilisation, si vous n’avez pas l’&acirc;ge l&eacute;gal pour consommer ou acheter de l’alcool dans le pays dans lequel vous &ecirc;tes situ&eacute; ou si vous vous trouvez dans un pays lequel l’utilisation de ce Site n’est pas autoris&eacute;e.<br/>  Pour plus d’information sur la consommation responsable, merci de visiter les sites suivantes :<br/>  <a href='http://www.efrd.org' target='_blank'>www.efrd.org</a><br/><a href='http://www.soifdevivre.com' target='_blank'>www.soifdevivre.com</a><br/><br/><b>1. Utilisation des mat&eacute;riels - </b>Vous pouvez imprimer ou faire imprimer tout mat&eacute;riel t&eacute;l&eacute;chargeable qui est contenu sur ce Site pourvu que vous satisfassiez aux cinq conditions suivantes : (A) le mat&eacute;riel est exclusivement destin&eacute; &agrave; un usage personnel et non commercial ; (B) aucun avis de l'existence du droit d'auteur ou aucune mention de droits de propri&eacute;t&eacute; n'est retir&eacute; du mat&eacute;riel ; (C) le mat&eacute;riel n'est pas modifi&eacute; de quelque mani&egrave;re que ce soit ; (D) vous &ecirc;tes dans un pays dans lequel l'achat de boissons alcoolis&eacute;es est autoris&eacute; ; et (E) vous avez l'&acirc;ge l&eacute;gal pour acheter des boissons alcoolis&eacute;es dans le pays dans lequel vous vous trouvez.<br/><br/><b>2. Droits d'Auteur, Marques et autres Droits de Propri&eacute;t&eacute; Intellectuelle - </b>Le contenu de ce Site, y compris, mais sans toutefois s'y limiter, les marques, les dessins, les logos, les textes, les images, les mat&eacute;riels audio et vid&eacute;o, est - sauf mention contraire - la propri&eacute;t&eacute; de Champagne Mo&euml;t & Chandon et de ses soci&eacute;t&eacute;s apparent&eacute;es (d&eacute;sign&eacute; ci-apr&egrave;s sous le terme &laquo; Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon &raquo;). Ce Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon est prot&eacute;g&eacute; aux termes de la l&eacute;gislation de la France et autres pays dans le monde entier ainsi qu'aux termes de conventions internationales. Vous n'avez pas le droit de retirer d'un Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon un quelconque avis d'existence de droit d'auteur ou autre mention de droits de propri&eacute;t&eacute;. Vous ne pouvez pas copier, publier, t&eacute;l&eacute;charger, afficher, reproduire, adapter, traduire, distribuer, modifier, transmettre, cr&eacute;er une oeuvre d&eacute;riv&eacute;e ou utiliser autrement du Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon de n'importe quelle mani&egrave;re que ce soit, pour tout usage public ou commercial, sans avoir au pr&eacute;alable l'autorisation &eacute;crite expresse de Champagne Mo&euml;t & Chandon.<br/><br/><b>3. Aucune Licence - </b>En dehors de l'utilisation limit&eacute;e de t&eacute;l&eacute;chargement et d'impression de certains mat&eacute;riels &agrave; partir de ce Site r&eacute;alis&eacute;e uniquement pour un usage non commercial et personnel, toute copie, qu'elle soit effectu&eacute;e sous forme &eacute;lectronique, papier, ou par n'importe quel autre moyen que ce soit, est interdite. Vous reconnaissez ne vous voir accorder une quelconque licence ou un quelconque droit d'utilisation d'un Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive appartenant &agrave; Champagne Mo&euml;t & Chandon en vertu du contenu du Site, que ce soit de mani&egrave;re implicite ou par fin de non-recevoir ou par tout autre moyen. Tous les droits et les titres de propri&eacute;t&eacute; sur - ainsi que les int&eacute;r&ecirc;ts dans - tous les aspects du Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon resteront la propri&eacute;t&eacute; exclusive de Champagne Mo&euml;t & Chandon. <br/><br/><b>4. Absence de Garanties - </b>L'utilisation que vous faites de ce Site se fait exclusivement &agrave; vos risques et p&eacute;rils. Ce Site et son contenu sont fournis &laquo; tels quels &raquo; et sans garantie d'aucune sorte, qu'elles soient explicites ou implicites, y compris, mais sans toutefois s'y limiter, les garanties implicites de qualit&eacute; des marchandises propres &agrave; la commercialisation, de non violation des droits de tiers, notamment de contrefaçon &agrave; des Droits de Propri&eacute;t&eacute; Intellectuelle, de conformit&eacute; &agrave; un usage particulier, ainsi que toutes garanties que l'acc&egrave;s &agrave; ce Site sera sans interruption ou sans erreur, que ce Site sera prot&eacute;g&eacute; ou exempt de virus ou de tout autre nuisance ou encore que l'information donn&eacute;e sur ce Site sera compl&egrave;te, exacte ou opportune.<br/><br/><b>5. Limitation de Responsabilit&eacute;s - </b>Dans la limite de ce que la l&eacute;gislation applicable permet ni Champagne Mo&euml;t & Chandon, ni ses soci&eacute;t&eacute;s apparent&eacute;es, ni ses dirigeants, ni ses salari&eacute;s ne verront leur responsabilit&eacute; engag&eacute;e et ne se verront contraints de vous verser des dommages-int&eacute;r&ecirc;ts du fait de pr&eacute;judices subis de quelque nature qu'ils soient (y compris, mais sans toutefois s'y limiter, pour pr&eacute;judices directs et indirects correspondants aux frais annexes encourus, les dommages particuliers et &agrave; caract&egrave;re r&eacute;pressif, les b&eacute;n&eacute;fices perdus ainsi que les dommages r&eacute;sultant de la perte de donn&eacute;es, des d&eacute;lais de transmission, de la d&eacute;faillance, d'une erreur, d'une omission, ou d'une interruption de service), d&eacute;coulant de ou en relation avec l'utilisation ou avec l'impossibilit&eacute; d'utilisation de ce Site et de son contenu, que ce soit au titre d'une garantie, sur le plan contractuel ou d&eacute;lictuel ou &agrave; tout autre titre, sans se pr&eacute;occuper de savoir si Champagne Mo&euml;t & Chandon a &eacute;t&eacute; ou non n&eacute;gligente ou a eu connaissance de l'&eacute;ventualit&eacute; de la survenance de tels dommages.<br/><br/><b>6. Communications vers le Site - </b>A l'exception des donn&eacute;es personnelles, toute information ou autre contenu que vous transmettez au Site (ci-apr&egrave;s &laquo; le Contenu &raquo;), par e-mail, par enregistrement, par t&eacute;l&eacute;chargement ou par tout autre moyen, sera trait&eacute; comme &eacute;tant non confidentiel et sans caract&egrave;re de propri&eacute;t&eacute; exclusive. En transmettant le Contenu vers le Site, vous accordez automatiquement &agrave; Champagne Mo&euml;t & Chandon une licence - exempte de redevance, perp&eacute;tuelle, irr&eacute;vocable et non exclusive - aux fins d'utiliser, de copier, de diffuser, de reproduire, de modifier, de publier, de mettre en forme, de traduire, d'int&eacute;grer &agrave; une oeuvre d&eacute;riv&eacute;e, de distribuer et d'afficher le Contenu en tout ou partie, sous toute forme, m&eacute;dia ou technologie, qu'il (elle) soit connu(e) &agrave; ce jour ou &agrave; venir, et &eacute;galement de sous-licencier ces droits sur le Contenu. Vous accordez &eacute;galement &agrave; Champagne Mo&euml;t & Chandon le droit d'utiliser les id&eacute;es, les concepts, le savoir-faire ou les techniques qui sont pr&eacute;sents dans le Contenu et ce, dans quelque but que ce soit, y compris, mais sans toutefois s'y limiter, le d&eacute;veloppement, la fabrication et la commercialisation de produits. Vous vous engagez &agrave; ne pas transmettre vers ce Site tout contenu ill&eacute;gal, contrefaisant, comminatoire, diffamatoire, obsc&egrave;ne, scandaleux, pornographique ou blasph&eacute;matoire ou tout autre contenu qui pourrait constituer ou encourager un comportement qui porterait atteinte une quelconque loi. Champagne Mo&euml;t & Chandon coop&eacute;rera totalement avec toutes instances d'application du droit ou avec toute injonction du tribunal demandant &agrave; - ou chargeant - Champagne Mo&euml;t & Chandon de divulguer l'identit&eacute; de - ou d'aider &agrave; identifier ou &agrave; localiser - quiconque transmettra un tel contenu. Champagne Mo&euml;t & Chandon se r&eacute;serve le droit de filtrer les envois des personnes qui manifesteraient avec persistance un comportement contraire aux pr&eacute;sentes Conditions. Champagne Mo&euml;t & Chandon ne pr&eacute;-visualise pas ou ne contrôle pas le Contenu transmis et n'est pas responsable de sa visualisation ou de son contrôle. En transmettant le Contenu au Site, vous reconnaissez que Champagne Mo&euml;t & Chandon a le droit de le retirer et de l'effacer du Site sans motif particulier. En effet, Veuve Clicquot, inform&eacute;e que le Contenu porte atteinte aux Conditions, peut d&eacute;cider de retirer du Site ce Contenu. Cependant, Champagne Mo&euml;t & Chandon n'a pas l'obligation de retirer du Site le Contenu transmis et n'assume aucune responsabilit&eacute; r&eacute;sultant de ou en relation avec ce Contenu, y compris, mais sans toutefois s'y limiter, toute erreur, calomnie, diffamation, injure, omission, mensonge, obsc&eacute;nit&eacute;, pornographie, blasph&egrave;me, danger ou inexactitude qui s'y trouve. Champagne Mo&euml;t & Chandon n'assume pas la responsabilit&eacute; des actions en justice relative au Contenu transmis par ou entre vous ou un tiers &agrave; l'int&eacute;rieur ou &agrave; l'ext&eacute;rieur de ce Site.<br/><br/><b>7. Liens -</b> Champagne Mo&euml;t & Chandon n'est en aucun cas responsable du contenu des &eacute;ventuels sites vers lesquels le Site vous dirige. Champagne Mo&euml;t & Chandon ne dispose d'aucun contrôle sur ces sites, elle ne les &eacute;dite pas et ne les surveille pas.<br/><br/><b>8. Restriction, suspension et interruption - </b>Champagne Mo&euml;t & Chandon se r&eacute;serve le droit de limiter, de suspendre ou de mettre fin &agrave; votre acc&egrave;s sur le Site ou &agrave; toute fonction ou partie de ce dernier, et ce &agrave; tout moment, avec ou sans notification pr&eacute;alable.<br/><br/><b>9. Loi applicable et Juridiction comp&eacute;tente - </b>Ces Conditions et la &laquo; Protection de la Vie Priv&eacute;e de l'Utilisateur &raquo; seront r&eacute;gis par - et interpr&eacute;t&eacute;s conform&eacute;ment &agrave; - la l&eacute;gislation française. Vous acceptez de mani&egrave;re irr&eacute;vocable la juridiction des tribunaux situ&eacute;s en France pour toute action en justice r&eacute;sultant de ou en relation avec ces Conditions ou avec votre exploration ou utilisation de ce Site.<br/><br/></div>"
+
+#: ../../../../application/public/views/scripts/html/legals.phtml:3
+msgid "Tag your love with Moët et Chandon Rosé Impérial description champagne legals"
+msgstr "Mentions légales - Moët & Chandon Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/html/legals.phtml:7
+msgid "contenu Mentions Légales"
+msgstr "<div style=\"text-align: justify\"><b>MENTIONS LEGALES ET CONDITIONS D'UTILISATION A DESTINATION DES INTERNAUTES</b><br/><br/><b>&Eacute;diteur</b><br/><br/>Le site &laquo; <a href='http://www.moet.com/rose'>www.moet.com/rose</a> &raquo; (le Site) est &eacute;dit&eacute; par la soci&eacute;t&eacute; MHCS, Soci&eacute;t&eacute; en commandite simple au capital de 433 193 798 Euros dont le si&egrave;ge social est situ&eacute; au 9 avenaue de Champagne, 51200 Epernay, immatricul&eacute;e au Registre du Commerce et des Soci&eacute;t&eacute;s de Reims sous le num&eacute;ro 509 553 459. Dans les pr&eacute;sentes mentions l&eacute;gales, toute mention de &laquo; Champagne Mo&euml;t & Chandon&raquo; fait r&eacute;f&eacute;rence &agrave; l’&eacute;tablissement Champagne Mo&euml;t & Chandon de la soci&eacute;t&eacute; MHCS sis 20 avenue de Champagne, 51200 Epernay. T&eacute;l : 03 26 51 20 00 Fax : 03 26 54 84 23 <br/>Editorial director : Arnaud DE SAIGNES<br/><br/><b>Design et mise en ligne</b><br/><br/> La conception fonctionnelle et cr&eacute;ative ont &eacute;t&eacute; r&eacute;alis&eacute;es par la soci&eacute;t&eacute; Blondie Paris - <a href='http://www.callmeblondie.com/' target='_blank'>www.callmeblondie.com</a><br/>Le d&eacute;veloppement a &eacute;t&eacute; r&eacute;alis&eacute; par la soci&eacute;t&eacute; Make Me Pulse - <a href='http://www.makemepulse.com/' target='_blank'>www.makemepulse.com</a><br/><br/><b>H&eacute;bergement</b><br/><br/>  Le site internet www.moet.com/rose est h&eacute;berg&eacute; par l'entreprise Link By Net, dont le si&egrave;ge social se situe Parc du Colombier, 14 rue Jules Saulnier, 93200 Saint Denis, France.<br/>  Tel.: +33 (0)1 48 13 00 00<br/>  Site web : <a href='http://www.linkbynet.com' target='_blank'>www.linkbynet.com</a><br/>  <br/>  En acc&eacute;dant &agrave; ce site internet (ci-apr&egrave;s le Site), vous acceptez l’application des pr&eacute;sentes Conditions d’utilisation. Champagne Mo&euml;t & Chandon peut &agrave; tout moment modifier ou compl&eacute;ter les pr&eacute;sentes Conditions d’utilisation; il vous appartient de les r&eacute;examiner chaque fois que vous acc&eacute;dez au Site. <br />  Le Site est destin&eacute; &agrave; un usage personnel par des personnes ayant l’&acirc;ge l&eacute;gal requis pour la consommation ou l’achat d’alcool dans le pays s&eacute;lectionn&eacute;, pays dans lequel la consommation ou l’achat d’alcool sont l&eacute;gaux. Dans le cas où l’&acirc;ge l&eacute;gal pour la consommation et l’achat diff&egrave;re, l’&acirc;ge retenu sera le plus vieux. Vous voudrez bien quitter imm&eacute;diatement ce Site si vous n’acceptez pas les pr&eacute;sentes Conditions d’utilisation, si vous n’avez pas l’&acirc;ge l&eacute;gal pour consommer ou acheter de l’alcool dans le pays dans lequel vous &ecirc;tes situ&eacute; ou si vous vous trouvez dans un pays lequel l’utilisation de ce Site n’est pas autoris&eacute;e.<br/>  Pour plus d’information sur la consommation responsable, merci de visiter les sites suivantes :<br/>  <a href='http://www.efrd.org' target='_blank'>www.efrd.org</a><br/><a href='http://www.soifdevivre.com' target='_blank'>www.soifdevivre.com</a><br/><br/><b>1. Utilisation des mat&eacute;riels - </b>Vous pouvez imprimer ou faire imprimer tout mat&eacute;riel t&eacute;l&eacute;chargeable qui est contenu sur ce Site pourvu que vous satisfassiez aux cinq conditions suivantes : (A) le mat&eacute;riel est exclusivement destin&eacute; &agrave; un usage personnel et non commercial ; (B) aucun avis de l'existence du droit d'auteur ou aucune mention de droits de propri&eacute;t&eacute; n'est retir&eacute; du mat&eacute;riel ; (C) le mat&eacute;riel n'est pas modifi&eacute; de quelque mani&egrave;re que ce soit ; (D) vous &ecirc;tes dans un pays dans lequel l'achat de boissons alcoolis&eacute;es est autoris&eacute; ; et (E) vous avez l'&acirc;ge l&eacute;gal pour acheter des boissons alcoolis&eacute;es dans le pays dans lequel vous vous trouvez.<br/><br/><b>2. Droits d'Auteur, Marques et autres Droits de Propri&eacute;t&eacute; Intellectuelle - </b>Le contenu de ce Site, y compris, mais sans toutefois s'y limiter, les marques, les dessins, les logos, les textes, les images, les mat&eacute;riels audio et vid&eacute;o, est - sauf mention contraire - la propri&eacute;t&eacute; de Champagne Mo&euml;t & Chandon et de ses soci&eacute;t&eacute;s apparent&eacute;es (d&eacute;sign&eacute; ci-apr&egrave;s sous le terme &laquo; Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon &raquo;). Ce Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon est prot&eacute;g&eacute; aux termes de la l&eacute;gislation de la France et autres pays dans le monde entier ainsi qu'aux termes de conventions internationales. Vous n'avez pas le droit de retirer d'un Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon un quelconque avis d'existence de droit d'auteur ou autre mention de droits de propri&eacute;t&eacute;. Vous ne pouvez pas copier, publier, t&eacute;l&eacute;charger, afficher, reproduire, adapter, traduire, distribuer, modifier, transmettre, cr&eacute;er une oeuvre d&eacute;riv&eacute;e ou utiliser autrement du Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon de n'importe quelle mani&egrave;re que ce soit, pour tout usage public ou commercial, sans avoir au pr&eacute;alable l'autorisation &eacute;crite expresse de Champagne Mo&euml;t & Chandon.<br/><br/><b>3. Aucune Licence - </b>En dehors de l'utilisation limit&eacute;e de t&eacute;l&eacute;chargement et d'impression de certains mat&eacute;riels &agrave; partir de ce Site r&eacute;alis&eacute;e uniquement pour un usage non commercial et personnel, toute copie, qu'elle soit effectu&eacute;e sous forme &eacute;lectronique, papier, ou par n'importe quel autre moyen que ce soit, est interdite. Vous reconnaissez ne vous voir accorder une quelconque licence ou un quelconque droit d'utilisation d'un Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive appartenant &agrave; Champagne Mo&euml;t & Chandon en vertu du contenu du Site, que ce soit de mani&egrave;re implicite ou par fin de non-recevoir ou par tout autre moyen. Tous les droits et les titres de propri&eacute;t&eacute; sur - ainsi que les int&eacute;r&ecirc;ts dans - tous les aspects du Mat&eacute;riel en Propri&eacute;t&eacute; Exclusive de Champagne Mo&euml;t & Chandon resteront la propri&eacute;t&eacute; exclusive de Champagne Mo&euml;t & Chandon. <br/><br/><b>4. Absence de Garanties - </b>L'utilisation que vous faites de ce Site se fait exclusivement &agrave; vos risques et p&eacute;rils. Ce Site et son contenu sont fournis &laquo; tels quels &raquo; et sans garantie d'aucune sorte, qu'elles soient explicites ou implicites, y compris, mais sans toutefois s'y limiter, les garanties implicites de qualit&eacute; des marchandises propres &agrave; la commercialisation, de non violation des droits de tiers, notamment de contrefaçon &agrave; des Droits de Propri&eacute;t&eacute; Intellectuelle, de conformit&eacute; &agrave; un usage particulier, ainsi que toutes garanties que l'acc&egrave;s &agrave; ce Site sera sans interruption ou sans erreur, que ce Site sera prot&eacute;g&eacute; ou exempt de virus ou de tout autre nuisance ou encore que l'information donn&eacute;e sur ce Site sera compl&egrave;te, exacte ou opportune.<br/><br/><b>5. Limitation de Responsabilit&eacute;s - </b>Dans la limite de ce que la l&eacute;gislation applicable permet ni Champagne Mo&euml;t & Chandon, ni ses soci&eacute;t&eacute;s apparent&eacute;es, ni ses dirigeants, ni ses salari&eacute;s ne verront leur responsabilit&eacute; engag&eacute;e et ne se verront contraints de vous verser des dommages-int&eacute;r&ecirc;ts du fait de pr&eacute;judices subis de quelque nature qu'ils soient (y compris, mais sans toutefois s'y limiter, pour pr&eacute;judices directs et indirects correspondants aux frais annexes encourus, les dommages particuliers et &agrave; caract&egrave;re r&eacute;pressif, les b&eacute;n&eacute;fices perdus ainsi que les dommages r&eacute;sultant de la perte de donn&eacute;es, des d&eacute;lais de transmission, de la d&eacute;faillance, d'une erreur, d'une omission, ou d'une interruption de service), d&eacute;coulant de ou en relation avec l'utilisation ou avec l'impossibilit&eacute; d'utilisation de ce Site et de son contenu, que ce soit au titre d'une garantie, sur le plan contractuel ou d&eacute;lictuel ou &agrave; tout autre titre, sans se pr&eacute;occuper de savoir si Champagne Mo&euml;t & Chandon a &eacute;t&eacute; ou non n&eacute;gligente ou a eu connaissance de l'&eacute;ventualit&eacute; de la survenance de tels dommages.<br/><br/><b>6. Communications vers le Site - </b>A l'exception des donn&eacute;es personnelles, toute information ou autre contenu que vous transmettez au Site (ci-apr&egrave;s &laquo; le Contenu &raquo;), par e-mail, par enregistrement, par t&eacute;l&eacute;chargement ou par tout autre moyen, sera trait&eacute; comme &eacute;tant non confidentiel et sans caract&egrave;re de propri&eacute;t&eacute; exclusive. En transmettant le Contenu vers le Site, vous accordez automatiquement &agrave; Champagne Mo&euml;t & Chandon une licence - exempte de redevance, perp&eacute;tuelle, irr&eacute;vocable et non exclusive - aux fins d'utiliser, de copier, de diffuser, de reproduire, de modifier, de publier, de mettre en forme, de traduire, d'int&eacute;grer &agrave; une oeuvre d&eacute;riv&eacute;e, de distribuer et d'afficher le Contenu en tout ou partie, sous toute forme, m&eacute;dia ou technologie, qu'il (elle) soit connu(e) &agrave; ce jour ou &agrave; venir, et &eacute;galement de sous-licencier ces droits sur le Contenu. Vous accordez &eacute;galement &agrave; Champagne Mo&euml;t & Chandon le droit d'utiliser les id&eacute;es, les concepts, le savoir-faire ou les techniques qui sont pr&eacute;sents dans le Contenu et ce, dans quelque but que ce soit, y compris, mais sans toutefois s'y limiter, le d&eacute;veloppement, la fabrication et la commercialisation de produits. Vous vous engagez &agrave; ne pas transmettre vers ce Site tout contenu ill&eacute;gal, contrefaisant, comminatoire, diffamatoire, obsc&egrave;ne, scandaleux, pornographique ou blasph&eacute;matoire ou tout autre contenu qui pourrait constituer ou encourager un comportement qui porterait atteinte une quelconque loi. Champagne Mo&euml;t & Chandon coop&eacute;rera totalement avec toutes instances d'application du droit ou avec toute injonction du tribunal demandant &agrave; - ou chargeant - Champagne Mo&euml;t & Chandon de divulguer l'identit&eacute; de - ou d'aider &agrave; identifier ou &agrave; localiser - quiconque transmettra un tel contenu. Champagne Mo&euml;t & Chandon se r&eacute;serve le droit de filtrer les envois des personnes qui manifesteraient avec persistance un comportement contraire aux pr&eacute;sentes Conditions. Champagne Mo&euml;t & Chandon ne pr&eacute;-visualise pas ou ne contrôle pas le Contenu transmis et n'est pas responsable de sa visualisation ou de son contrôle. En transmettant le Contenu au Site, vous reconnaissez que Champagne Mo&euml;t & Chandon a le droit de le retirer et de l'effacer du Site sans motif particulier. En effet, Veuve Clicquot, inform&eacute;e que le Contenu porte atteinte aux Conditions, peut d&eacute;cider de retirer du Site ce Contenu. Cependant, Champagne Mo&euml;t & Chandon n'a pas l'obligation de retirer du Site le Contenu transmis et n'assume aucune responsabilit&eacute; r&eacute;sultant de ou en relation avec ce Contenu, y compris, mais sans toutefois s'y limiter, toute erreur, calomnie, diffamation, injure, omission, mensonge, obsc&eacute;nit&eacute;, pornographie, blasph&egrave;me, danger ou inexactitude qui s'y trouve. Champagne Mo&euml;t & Chandon n'assume pas la responsabilit&eacute; des actions en justice relative au Contenu transmis par ou entre vous ou un tiers &agrave; l'int&eacute;rieur ou &agrave; l'ext&eacute;rieur de ce Site.<br/><br/><b>7. Liens -</b> Champagne Mo&euml;t & Chandon n'est en aucun cas responsable du contenu des &eacute;ventuels sites vers lesquels le Site vous dirige. Champagne Mo&euml;t & Chandon ne dispose d'aucun contrôle sur ces sites, elle ne les &eacute;dite pas et ne les surveille pas.<br/><br/><b>8. Restriction, suspension et interruption - </b>Champagne Mo&euml;t & Chandon se r&eacute;serve le droit de limiter, de suspendre ou de mettre fin &agrave; votre acc&egrave;s sur le Site ou &agrave; toute fonction ou partie de ce dernier, et ce &agrave; tout moment, avec ou sans notification pr&eacute;alable.<br/><br/><b>9. Loi applicable et Juridiction comp&eacute;tente - </b>Ces Conditions et la &laquo; Protection de la Vie Priv&eacute;e de l'Utilisateur &raquo; seront r&eacute;gis par - et interpr&eacute;t&eacute;s conform&eacute;ment &agrave; - la l&eacute;gislation française. Vous acceptez de mani&egrave;re irr&eacute;vocable la juridiction des tribunaux situ&eacute;s en France pour toute action en justice r&eacute;sultant de ou en relation avec ces Conditions ou avec votre exploration ou utilisation de ce Site.<br/><br/></div>"
+
+#: ../../../../application/public/views/scripts/html/mobile.phtml:1
+msgid "MOET & CHANDON THE CHAMPAGNE MOBILE TITLE HTML"
+msgstr "Application Mobile Moët Rosé Impérial pour Apple et Android  – Moët & Chandon"
+
+#: ../../../../application/public/views/scripts/html/mobile.phtml:2
+msgid "Tag your love with Moët et Chandon Rosé Impérial description champagne mobile"
+msgstr "Téléchargez l'application mobile Moët & Chandon Rosé Impérial sur votre iPhone, iPad ou téléphone Android pour décorer votre bouteille !"
+
+#: ../../../../application/public/views/scripts/html/mobile.phtml:9
+msgid "A master artist in seduction never misses an opportunity to fuel the night with passion. Wherever you are, the Moët Rosé app - available for the iPhone, iPad and Android - will allow you to tag your love on photos and find exciting hot spots… all in the palm of your hand, at any time!"
+msgstr "Téléchargez l'application Moët Rosé pour transporter au creux de votre main l'univers extraverti du champagne Moët & Chandon Rosé Impérial."
+
+#: ../../../../application/public/views/scripts/html/mobile.phtml:13
+msgid "Download the app for iPhone and iPad"
+msgstr "Télécharger l'application pour iPhone et iPad"
+
+#: ../../../../application/public/views/scripts/html/mobile.phtml:17
+msgid "Download the app for Android phones"
+msgstr "Télécharger l'application pour Android"
+
+#: ../../../../application/public/views/scripts/html/tagyourlove.phtml:1
+msgid "MOET & CHANDON THE CHAMPAGNE TAG YOUR LOVE TITLE HTML"
+msgstr "Décorer avec des Graffiti le Champagne Rosé Impérial – Moët & Chandon"
+
+#: ../../../../application/public/views/scripts/html/tagyourlove.phtml:2
+msgid "Tag your love with Moët et Chandon Rosé Impérial description champagne tagyourlove"
+msgstr "Décorez votre bouteille de champagne Rosé Impérial Moët et Chandon depuis votre ordinateur ou votre portable."
+
+#: ../../../../application/public/views/scripts/html/tagyourlove.phtml:7
+msgid "Make your romantic moments pop with Moët Rosé! Use our new app to create a stylish and unforgettable love note, by painting your very own graffiti art on the love-inspiring location of your choice! "
+msgstr "Libérez votre inspiration et exprimez votre amour avec passion et créativité.<br/>L'équipe Moët Rosé sélectionnera chaque semaine les plus belles créations. Peut-être en ferez-vous partie !"
+
+#: ../../../../application/public/views/scripts/index/bag.phtml:9
+msgid "Mon titre bag"
+msgstr "Coffret Graffiti Moët, Bouteille Magnum de Champagne Rosé – Moët & Chandon Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/index/bag.phtml:10
+msgid "Ma description"
+msgstr "Champagne Rosé Impérial Moët & Chandon, Décoration Romantique Champagne"
+
+#: ../../../../application/public/views/scripts/index/case.phtml:9
+msgid "Mon titre case"
+msgstr "Étui Graffiti Moët, Bouteille de Champagne Rosé – Moët & Chandon Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/index/giftpack.phtml:9
+msgid "Mon titre giftpack"
+msgstr "Pack Graffiti Moët, Bouteille de Champagne Rosé – Moët & Chandon Rosé Impérial"
+
+#: ../../../../application/public/views/scripts/index/index.phtml:25
+#: ../../../../application/public/views/scripts/mobile/index.phtml:8
+msgid "To enter the Moët & Chandon Rosé Impérial Tag Your Love website you must be of legal alcohol drinking age in your country of residence. If no such laws exist in your country, you must be over 18 to enter this website."
+msgstr "Pour visiter notre site vous devez être en âge de consommer de l'alcool, selon la législation en vigueur dans votre pays de résidence. S'il n'existe pas de législation à cet égard dans votre pays, vous devez être âgé(e) de 21 ans au moins."
+
+#: ../../../../application/public/views/scripts/index/index.phtml:33
+#: ../../../../application/public/views/scripts/index/index.phtml:57
+#: ../../../../application/public/views/scripts/index/index.phtml:81
+#: ../../../../application/public/views/scripts/index/index.phtml:106
+msgid "France"
+msgstr "presskit-fr.pdf"
+
+#: ../../../../application/public/views/scripts/index/index.phtml:34
+#: ../../../../application/public/views/scripts/index/index.phtml:58
+#: ../../../../application/public/views/scripts/index/index.phtml:82
+#: ../../../../application/public/views/scripts/index/index.phtml:107
+msgid "Mexico"
+msgstr ""
+
+#: ../../../../application/public/views/scripts/index/index.phtml:35
+#: ../../../../application/public/views/scripts/index/index.phtml:59
+#: ../../../../application/public/views/scripts/index/index.phtml:83
+#: ../../../../application/public/views/scripts/index/index.phtml:108
+msgid "International version"
+msgstr ""
+
+#: ../../../../application/public/views/scripts/index/index.phtml:38
+#: ../../../../application/public/views/scripts/index/index.phtml:62
+#: ../../../../application/public/views/scripts/index/index.phtml:86
+#: ../../../../application/public/views/scripts/index/index.phtml:111
+msgid "Enter your birthdate"
+msgstr "Votre date de naissance"
+
+#: ../../../../application/public/views/scripts/index/index.phtml:49
+#: ../../../../application/public/views/scripts/index/index.phtml:73
+#: ../../../../application/public/views/scripts/index/index.phtml:97
+#: ../../../../application/public/views/scripts/index/index.phtml:122
+msgid "ENTER AND TAG YOUR LOVE"
+msgstr "ENTRER"
+
+#: ../../../../application/public/views/scripts/index/index.phtml:125
+#: ../../../../application/public/views/scripts/mobile/index.phtml:31
+msgid "DRINK RESPONSIBLY"
+msgstr "À CONSOMMER AVEC MODÉRATION"
+
+#: ../../../../application/public/views/scripts/index/index.phtml:126
+#: ../../../../application/public/views/scripts/mobile/index.phtml:33
+msgid "We support the responsible consumption of wines and spirits, through Moët Hennessy, member of the European Forum for Responsisble Drinking (www.efrd.org) and DISCUS (www.discuss.org), CEEV (www.wineinmoderation.eu) and Entreprise et Prévention (www.soifdevivre.com). By entering this site you acknowledge that you accept its terms and conditions of use."
+msgstr "MOËT & CHANDON est membre à travers MOËT HENNESSY du Forum Européen pour la Consommation Responsable de l'Alcool (<a href=\"http://www.efrd.org\"><u>www.efrd.org</u></a>) et d'Entreprise et Prévention, groupe de réflexion et d'initiatives des producteurs de boisson (<a href=\"http://www.preventionalcool.com\"><u>www.preventionalcool.com</u></a>). En entrant sur ce site, j'en accepte les termes et conditions d'utilisation."
+
+#: ../../../../application/public/views/scripts/index/index.phtml:127
+#: ../../../../application/public/views/scripts/mobile/index.phtml:35
+msgid "THE ABUSE OF ALCOHOL IS DANGEROUS FOR YOUR HEALTH"
+msgstr "L'ABUS D'ALCOOL EST DANGEREUX POUR LA SANTÉ. À CONSOMMER AVEC MODÉRATION."
+
+#: ../../../../application/public/views/scripts/index/popup.phtml:42
+msgid "Welcome to the Moët & Chandon Rosé Impérial Tag Your Love website. Discover the magic of the pink bubbly champagne, tag the streets with your love and then share it with your special someone or with the world."
+msgstr "Bienvenu sur le site Moët & Chandon Rosé Impérial.<br/>Découvrez l'univers du plus extraverti des champagnes de Moët & Chandon, personnalisez sa bouteille et transmettez vos suggestions à l'équipe Moët !<br/>Télécharger l'application Mobile pour personnaliser votre bouteille et découvrir quelles sont les meilleures adresses pour déguster Moët & Chandon Rosé Impérial."
+
+#: ../../../../application/public/views/scripts/mobile/home.phtml:8
+msgid "Moët Rosé comes this year with an innovative and playful Graffiti kit to make you unique in declaring your love."
+msgstr "Moët Rosé comes this year with an innovative and playful Graffiti kit to make you unique in declaring your love."
+
+#: ../../../../application/public/views/scripts/mobile/home.phtml:38
+msgid "Turn your pictures into love messages and share them with your beloved ones."
+msgstr "Come back soon to download the Moët Rosé mobile app and share stylish love messages."
+
+#: ../../../../application/public/views/scripts/mobile/home.phtml:39
+msgid "url iphone"
+msgstr "http://itunes.apple.com/fr/app/tag-your-love-by-moet-chandon/id496803666?ls=1&mt=8"
+
+#: ../../../../application/public/views/scripts/mobile/home.phtml:43
+msgid "Follow Moët on Facebook"
+msgstr ""
+
+#: ../../../../application/public/views/scripts/mobile/index.phtml:11
+msgid "YOUR COUNTRY"
+msgstr "VOTRE PAYS DE RÉSIDENCE"
+
+#: ../../../../application/public/views/scripts/mobile/index.phtml:19
+msgid "YOUR BIRTH YEAR"
+msgstr "VOTRE ANNÉE DE NAISSANCE"
+
+#: ../../../../application/public/views/scripts/mobile/index.phtml:22
+msgid "YEAR OF BIRTH"
+msgstr "VOTRE DATE DE NAISSANCE"
+
+#: ../../../../application/public/views/scripts/mobile/index.phtml:28
+msgid "ENTER"
+msgstr "ENTRER"
+
+#: ../../../../application/public/views/scripts/mobile/legals.phtml:3
+#: ../../../../application/public/views/scripts/mobile/sorry.phtml:5
+msgid "BACK"
+msgstr "RETOUR"
+
+#: ../../../../application/public/views/scripts/mobile/sorry.phtml:3
+msgid "Sorry, as you are not of legal age, we cannot welcome you to our site"
+msgstr "Désolé vous n'êtes pas autorisé à accéder à ce site."
+
+#: ../../../../application/public/views/scripts/tag/index.phtml:10
+#: ../../../../application/public/views/scripts/tag/index.phtml:47
+msgid "Tag your love with Moët et Chandon Rosé Impérial description streetview"
+msgstr "Personnalise Moët Rosé"
+
+#: ../../../../application/public/views/scripts/tag/index.phtml:11
+msgid "Tag your love with Moët et Chandon Rosé Impérial titre"
+msgstr "Personnalise Moët Rosé"
+
+#: ../../../../application/public/views/scripts/tag/index.phtml:12
+msgid "titre like streetview"
+msgstr ""
+
+#: ../../../../application/public/views/scripts/tag/index.phtml:13
+msgid "description like streetview"
+msgstr ""
+
+#: ../../../../application/public/views/scripts/tag/index.phtml:53
+#, php-format
+msgid "%s just turned into a love artist for you ! Your turn to use the world as a canvas for your love."
+msgstr "%s just turned into a love artist for you! Your turn to use the world as a canvas for your love."
+
+#: ../../../../application/public/views/scripts/tag/index.phtml:53
+msgid "Someone"
+msgstr "Someone"
+
+#: ../../../../application/public/views/scripts/tag/index.phtml:60
+msgid "twitter share your tag"
+msgstr "I just tagged my love on a street with Moët & Chandon Rosé Impérial and graffiti legend André! #tagyourlove #moet"
+
+#: ../../../../application/public/services/Streetview.php:168
+#, php-format
+msgid "<span style=\"font-size:20px;\">Dear <b>%s</b>,</span><br /><br />Glamour and Passion are taking over the streets !<br />%s just tagged the %s just for you !<br />Click <a href=\"%s\" style=\"color:#d47c95;\" target=\"_blank\"><b>here</b></a> to see her creation of graffiti art."
+msgstr "<span style=\"font-size:20px;\">Dear <b>%s</b>,</span><br /><br />Glamour and Passion are taking over the streets !<br />%s just tagged the \"%s\" just for you !<br />Click <a href=\"%s\" style=\"color:#d47c95;\" target=\"_blank\"><b>here</b></a> to see this creation of graffiti art."
+
+#: ../../../../application/public/services/Streetview.php:182
+#, php-format
+msgid "I just tagged the %s with Moët & Chandon Rosé Impérial"
+msgstr ""
+
+#: ../../../../../src/moet/ApplicationModule.as:112
+msgid "PRESS KIT"
+msgstr "PRESSE"
+
+#: ../../../../../src/moet/ApplicationModule.as:117
+msgid "SHARE ON"
+msgstr "share on"
+
+#: ../../../../../src/moet/ApplicationModule.as:149
+msgid "TWITTER TEXTE SHARE"
+msgstr "Moët & Chandon Rosé Impérial invites you to tag your love #tagyourlove #moet"
+
+#: ../../../../../src/moet/ApplicationModule.as:149
+msgid "url shared by global twitter"
+msgstr "http://www.moet.com/rose"
+
+#: ../../../../../src/moet/ApplicationModule.as:156
+msgid "global share name"
+msgstr "Tag your Love with Moët & Chandon Rosé Impérial"
+
+#: ../../../../../src/moet/ApplicationModule.as:156
+msgid "global share description"
+msgstr "Calling all artists in seduction! Moët & Chandon Rosé Impérial invites you to tag the street and boldly share your feelings with the world, using your own romantic and glamorous signature."
+
+#: ../../../../../src/moet/ApplicationModule.as:162
+msgid "URL TO PRESS KIT"
+msgstr "presskit-fr.pdf"
+
+#: ../../../../../src/moet/module/bottletag/view/component/HeaderView.as:36
+#: ../../../../../src/moet/module/bottletag/view/component/HeaderView.as:66
+msgid "Type the address where you want to tag your love :"
+msgstr "Libérez votre inspiration et exprimez votre amour avec passion et créativité.<br/>L'équipe Moët Rosé sélectionnera chaque semaine les plus belles créations. Peut-être en ferez-vous partie !"
+
+#: ../../../../../src/moet/module/bottletag/view/component/HeaderView.as:40
+msgid "Select the building where you want to tag then click on the button to go to the next step"
+msgstr "Libérez votre inspiration et exprimez votre amour avec passion et créativité.<br/>L'équipe Moët Rosé sélectionnera chaque semaine les plus belles créations. Peut-être en ferez-vous partie !"
+
+#: ../../../../../src/moet/module/bottletag/view/component/HeaderView.as:44
+msgid "This is your love wall! Tag it, paint it, and when you’re done, save your painting on Facebook or Twitter"
+msgstr "Libérez votre inspiration et exprimez votre amour avec passion et créativité.<br/>L'équipe Moët Rosé sélectionnera chaque semaine les plus belles créations. Peut-être en ferez-vous partie !"
+
+#: ../../../../../src/moet/module/bottletag/view/component/HeaderView.as:48
+msgid "Share your painting on Facebook or Twitter"
+msgstr "Share your tag on Facebook or Twitter"
+
+#: ../../../../../src/moet/module/bottletag/view/component/HeaderView.as:52
+msgid "L'équipe Moët Rosé a sélectionné les déclarations les plus créatives pour vous proposer une dose d'inspiration et faire de vous un artiste."
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/FormSaveBottleView.as:85
+msgid "ENVOYER VOTRE CRÉATION À L'ÉQUIPE MOËT ROSÉ"
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/FormSaveBottleView.as:88
+msgid "VOTRE NOM :"
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/FormSaveBottleView.as:91
+msgid "VOTRE PRÉNOM :"
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/FormSaveBottleView.as:94
+msgid "DONNEZ UN NOM À VOTRE PERSONNALISATION :"
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/FormSaveBottleView.as:98
+msgid "MERCI ,<br/>Votre création a bien été envoyée."
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/FormSaveBottleView.as:106
+msgid "RETOUR"
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/FormSaveBottleView.as:107
+msgid "ENVOYER"
+msgstr ""
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/HelpView.as:56
+msgid "GRAB THIS CORNER TO ROTATE"
+msgstr "GLISSER CE COIN POUR TOURNER"
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/HelpView.as:59
+msgid "GRAB THIS CORNER TO RESIZE"
+msgstr "TIRER CE COIN POUR REDIMENSIONNER"
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/HelpView.as:62
+msgid "CLICK ON THE<br/>TO DELETE THE GRAFFITI"
+msgstr "CLIQUER SUR LA CROIX POUR SUPPRIMER"
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/HelpView.as:66
+msgid "CLICK ON A COLOR TO SELECT YOUR PAINT"
+msgstr "CLIQUER POUR SÉLECTIONNER UNE COULEUR"
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/HelpView.as:69
+msgid "DRAG AND DROP THE GRAFFITI TO ADD IT TO YOUR PICTURE"
+msgstr "FAIRE GLISSER UN GRAFFITI POUR L'AJOUTER"
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/RightButtonsView.as:27
+msgid "start over"
+msgstr "recommencer"
+
+#: ../../../../../src/moet/module/bottletag/view/component/draw/RightButtonsView.as:33
+msgid "finished"
+msgstr "envoyer"
+
+#: ../../../../../src/moet/module/bottletag/view/component/gallery/GalleryView.as:40
+msgid "RÉALISEZ VOTRE TAG !"
+msgstr ""
+
+#: ../../../../../src/moet/module/discover/view/component/ChampagneRoseView.as:46
+msgid "pack1 share name"
+msgstr "L'Étui Graffiti"
+
+#: ../../../../../src/moet/module/discover/view/component/ChampagneRoseView.as:46
+msgid "pack1 share description"
+msgstr "Rosé Impérial incarne l’expression la plus spontanée et séductrice du style Moët & Chandon."
+
+#: ../../../../../src/moet/module/discover/view/component/ChampagneRoseView.as:62
+msgid "Rosé Impérial, is the most glamorous and seductive expression of the Moët & Chandon Style. As a spontaneous invitation to love, Rosé Impérial distinguishes itself by a radiant colour, an intense fruitiness and flamboyance on the palate. It reflects the diversity and complementarities of the three champagne grapes (Pinot Noir, Pinot Meunier and Chardonnay) to reveal the magic of the world’s most loved champagne."
+msgstr "Rosé Impérial incarne l’expression la plus spontanée et séductrice du style Moët & Chandon. Il intègre toute la diversité des cépages et des terroirs de Champagne. Son renom tient à sa couleur radieuse, son fruité intense et son palais éclatant. Sa robe rose est rayonnante, à dominante rouge, parée de reflets violets."
+
+#: ../../../../../src/moet/module/discover/view/component/ChampagneRoseView.as:63
+msgid "GIFTPACK"
+msgstr "L'Étui Graffiti"
+
+#: ../../../../../src/moet/module/discover/view/component/ChampagneRoseView.as:64
+msgid "Bottle 75cl"
+msgstr "Bouteille 75cl"
+
+#: ../../../../../src/moet/module/discover/view/component/DiscoverTitleView.as:41
+msgid "Visit the Moët.Com"
+msgstr "Visitez moet.com"
+
+#: ../../../../../src/moet/module/discover/view/component/DiscoverTitleView.as:42
+msgid "Find Moët Rosé"
+msgstr "Déguster Moët Rosé"
+
+#: ../../../../../src/moet/module/discover/view/component/PaintYourBottleView.as:37
+msgid "pack3 share name"
+msgstr "Le coffret Rosé Impérial"
+
+#: ../../../../../src/moet/module/discover/view/component/PaintYourBottleView.as:37
+msgid "pack3 share description"
+msgstr "Créé exclusivement pour Moët & Chandon, ce luxueux pack vous invite à créer un magnum Rosé Impérial unique."
+
+#: ../../../../../src/moet/module/discover/view/component/PaintYourBottleView.as:47
+msgid "Created exclusively for Moët & Chandon, this luxurious pack invites you to become a master artist in seduction. Paint the magnum with André’s passionate graffiti, using the corresponding stencils. Or, to go even further, create your own stencils from the words and message in this unique booklet to personnalise the magnum with your own special touch of graffiti glamour."
+msgstr "Créé exclusivement pour Moët & Chandon, ce luxueux pack vous invite à créer un magnum Rosé Impérial unique. Utilisez le marqueur rose et les stickers du graphiste André pour vous exprimer avec une élégance pétillante."
+
+#: ../../../../../src/moet/module/discover/view/component/PaintYourBottleView.as:49
+msgid "Magnum 1500ml & Graffiti marker & stickers booklet"
+msgstr "Magnum 150cl & marqueur & Livret Stickers"
+
+#: ../../../../../src/moet/module/discover/view/component/TagYourLoveView.as:37
+msgid "With this glamourous pack, Moët & Chandon invites you to share your love in a passionate and modern way. Draw your inspiration from graffiti legend André and use the pen to tag the bottle with your own romantic signature : dare to write, declare your feelings and create a luxuriously personalised champagne experience."
+msgstr "Avec cet étui moderne et élégant, Moët & Chandon vous offre la possibilité de marquer de votre main sa célèbre bouteille. Inspirez-vous de l'univers graphique du célèbre André pour rendre unique votre dégustation."
+
+#: ../../../../../src/moet/module/discover/view/component/TagYourLoveView.as:39
+msgid "Bottle 750ml & Pen"
+msgstr "Bouteille de 75 cl & Marqueur"
+
+#: ../../../../../src/moet/module/discover/view/component/TagYourLoveView.as:61
+msgid "pack2 share name"
+msgstr "Le Pack Graffiti"
+
+#: ../../../../../src/moet/module/discover/view/component/TagYourLoveView.as:61
+msgid "pack2 share description"
+msgstr "Avec cet étui moderne et élégant, Moët & Chandon vous offre la possibilité de marquer de votre main sa célèbre bouteille."
+
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:86
+msgid "ENTER YOUR BIRTH YEAR"
+msgstr "VOTRE ANNÉE DE NAISSANCE"
+
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:122
+msgid "YOUR BIRTH DATE"
+msgstr "ANNÉE"
+
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:172
+msgid "ENTER YOUR BIRTHDATE"
+msgstr "VOTRE DATE DE NAISSANCE"
+
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:184
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:218
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:225
+msgid "DAY"
+msgstr "Jour"
+
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:185
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:230
+#: ../../../../../src/moet/module/dispatch/view/component/BirthdateView.as:237
+msgid "MONTH"
+msgstr "Mois"
+
+#: ../../../../../src/moet/module/dispatch/view/component/LogoView.as:40
+msgid "One of our key missions is to ensure that our champagnes are enjoyed responsibly.We must confirm that you are of legal drinking age in your country before welcoming you to Moët & Chandon.If there is no legal age for consuming alcohol in your country, you must be over 21."
+msgstr "Pour visiter notre site vous devez être en âge de consommer de l'alcool, selon la législation en vigueur dans votre pays de résidence. S'il n'existe pas de législation à cet égard dans votre pays, vous devez être âgé(e) de 21 ans au moins."
+
+#: ../../../../../src/moet/module/dispatch/view/component/RefuseView.as:105
+#: ../../../../../src/moet/module/dispatch/view/component/RefuseView.as:106
+msgid "SORRY, AS YOU ARE NOT OF LEGAL AGE, WE CANNOT WELCOME YOU TO OUR SITE"
+msgstr "Désolé vous n'êtes pas autorisé à accéder à ce site."
+
+#: ../../../../../src/moet/module/locator/view/component/ButtonOpenView.as:53
+msgid "View on map"
+msgstr "Plan"
+
+#: ../../../../../src/moet/module/locator/view/component/TitleView.as:50
+msgid "French artist and night bird André has selected the best places around to buy or drink some Moët Rosé! Select a country below and go get some fun!"
+msgstr "Oiseau de nuit et artiste grapheur de légende, André a selectionné pour vous les meilleurs endroits pour acheter ou savourer du<br/>Moët Rosé ! Où se passera votre prochain toast au Rosé Impérial ?"
+
+#: ../../../../../src/moet/module/mobile/view/component/DeviceBackgroundView.as:28
+msgid "Flash the QR code to download the app"
+msgstr "Flasher le QR code pour télécharger l'application"
+
+#: ../../../../../src/moet/module/mobile/view/component/MobileTitleView.as:29
+msgid "A master artist in seduction never misses an opportunity to fuel the night with passion. Wherever you are, this app available on Iphone, Ipad and Android will allow you to tag your love on photos and find Andre’s hot spots... All in the palm of your hand at all time !"
+msgstr "Téléchargez l'application Moët Rosé pour transporter au creux de votre main l'univers extraverti du champagne Moët & Chandon Rosé Impérial."
+
+#: ../../../../../src/moet/module/mobile/view/component/TextView.as:27
+msgid "Lorem ipsum dolor sit amet, consectvetur adipiscing elit. Nullam pulvinar, libero vitae fringilla malesuada, ante sem auctor magna, nec commodo massa."
+msgstr ""
+
+#: ../../../../../src/moet/module/mobile/view/mediator/button/ButtonAndroidMediator.as:27
+msgid "url android"
+msgstr "https://market.android.com/details?id=com.moetetchandon.moetrose"
+
+#: ../../../../../src/moet/module/mobile/view/mediator/button/ButtonIpadMediator.as:29
+msgid "url ipad"
+msgstr "http://itunes.apple.com/fr/app/tag-your-love-hd-by-moet-chandon/id496805969?ls=1&mt=8"
+
+#: ../../../../../src/moet/module/tag/view/component/draw/ColorSelectorView.as:44
+msgid "select a color"
+msgstr "choisir une couleur"
+
+#: ../../../../../src/moet/module/tag/view/component/draw/DrawView.as:112
+msgid "change address"
+msgstr "change address"
+
+#: ../../../../../src/moet/module/tag/view/component/draw/FormTypeTextView.as:54
+#: ../../../../../src/moet/module/tag/view/component/draw/FormTypeTextView.as:74
+#: ../../../../../src/moet/module/tag/view/component/draw/FormTypeTextView.as:88
+#: ../../../../../src/moet/module/tag/view/component/draw/FormTypeTextView.as:94
+#: ../../../../../src/moet/module/tag/view/component/draw/FormTypeTextView.as:95
+msgid "Please enter your text here"
+msgstr "Please enter your text here"
+
+#: ../../../../../src/moet/module/tag/view/component/draw/FormTypeTextView.as:58
+msgid "OK"
+msgstr "ok"
+
+#: ../../../../../src/moet/module/tag/view/component/draw/FormTypeTextView.as:63
+msgid "CANCEL"
+msgstr "annuler"
+
+#: ../../../../../src/moet/module/tag/view/component/draw/HelpView.as:71
+msgid "CLICK ON THE PEN OR THE SPRAY CAN TO SELECT IT, THE CLICK ON THE IMAGE TO USE IT"
+msgstr "CLICK ON THE PEN OR THE SPRAY CAN, THEN DRAW WITH IT ON YOUR STREET"
+
+#: ../../../../../src/moet/module/tag/view/component/draw/HelpView.as:77
+msgid "CLICK HERE TO ADD TEXT TO YOUR TAG"
+msgstr "ADD TEXT TO YOUR TAG"
+
+#: ../../../../../src/moet/module/tag/view/component/search/InputFieldView.as:41
+#: ../../../../../src/moet/module/tag/view/component/search/InputFieldView.as:58
+#: ../../../../../src/moet/module/tag/view/component/search/InputFieldView.as:71
+#: ../../../../../src/moet/module/tag/view/component/search/InputFieldView.as:72
+#: ../../../../../src/moet/module/tag/view/component/search/InputFieldView.as:79
+#: ../../../../../src/moet/module/tag/view/component/search/InputFieldView.as:85
+msgid "Please enter your adress here"
+msgstr "Please enter the address where you wish to tag your love"
+
+#: ../../../../../src/moet/module/tag/view/component/search/PopinErrorView.as:122
+msgid "Sorry, we were unable to find your address.Try an other search above..."
+msgstr "Sadly, we’re unable to find your address. Please try another search below..."
+
+#: ../../../../../src/moet/module/tag/view/component/search/PopinErrorView.as:123
+msgid "...Or tag one of these spotted places :"
+msgstr "...or tag one of the most romantic places in the world :"
+
+#: ../../../../../src/moet/module/tag/view/component/search/PopinErrorView.as:125
+msgid "CHAMPS ELYSEES"
+msgstr ""
+
+#: ../../../../../src/moet/module/tag/view/component/search/PopinErrorView.as:126
+msgid "COPACABANA"
+msgstr ""
+
+#: ../../../../../src/moet/module/tag/view/component/search/PopinErrorView.as:127
+msgid "HONG KONG ISLAND"
+msgstr ""
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:70
+msgid "EMAIL YOUR TAG TO A FRIEND"
+msgstr "email your tag to a friend"
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:71
+msgid "YOUR EMAIL"
+msgstr "YOUR EMAIL"
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:72
+msgid "YOUR NAME"
+msgstr "YOUR NAME"
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:73
+msgid "YOUR FRIEND’S NAME"
+msgstr "your friends's name"
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:74
+msgid "YOUR FRIEND’S E-MAIL"
+msgstr "YOUR FRIEND'S EMAIL"
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:76
+msgid "At Moët & Chandon, one of our key missions is to ensure that our champagnes are enjoyed responsibly. Please, make sure this email is not sent to a minor. Thank you for this attention."
+msgstr "At Moët & Chandon, one of our key missions is to ensure that our champagnes are enjoyed responsibly. Please, make sure this email is not sent to a minor. Thank you for this attention."
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:77
+msgid "legals 2"
+msgstr "The personnal data we collect on this page will only be used to send your message. Moët & Chandon will not store any of these data."
+
+#: ../../../../../src/moet/module/tag/view/component/share/EmailFormView.as:99
+msgid "SENT IT"
+msgstr "Envoyer"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:64
+msgid "Here is the link to see your tag :"
+msgstr "Here is the link to see your tag:"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:83
+msgid "Copy the link"
+msgstr "Copy the link"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:88
+msgid "Share it on twitter"
+msgstr "share it on twitter"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:92
+msgid "Share it on facebook"
+msgstr "Share it on facebook"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:97
+msgid "Email it"
+msgstr "Email it"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:102
+msgid "Tag another street"
+msgstr "tag another street"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:143
+msgid "streetview share name"
+msgstr "Tag your Love with Moët & Chandon Rosé Impérial"
+
+#: ../../../../../src/moet/module/tag/view/component/share/ShareButtonsView.as:143
+msgid "streetview share description"
+msgstr "I just tagged my love on a street with Moët & Chandon Rosé Impérial and graffiti legend André!"
+
+#: ../../../../../src/moet/module/tag/view/component/streetview/StreetViewButtonsView.as:34
+msgid "use this view"
+msgstr "use this view"
+
+#: ../../../../../src/moet/view/component/ApplicationMoetRoseLogoView.as:65
+msgid "Welcome to the Moët rosé Tag your love. Discover the magic of the pink bubbled champagne, Tag the streets with your love to share with your special someone or with the world, Download the mobile apps to tag your romantic moments with a touch of grafiti chic, And find the best places around to drink Moët rosé selected by André"
+msgstr "Bienvenu sur le site Moët & Chandon Rosé Impérial.<br/>Découvrez l'univers du plus extraverti des champagnes de Moët & Chandon, personnalisez sa bouteille et transmettez vos suggestions à l'équipe Moët !<br/>Télécharger l'application Mobile pour personnaliser votre bouteille et découvrir quelles sont les meilleures adresses pour déguster Moët & Chandon Rosé Impérial."
+
+#~ msgid "FRANCE"
+#~ msgstr "cancel"
+
+#~ msgid "spot title 1"
+#~ msgstr "Champs-Elysées"
+
+#~ msgid "spot title 2"
+#~ msgstr "Copacabana"
+
+#~ msgid "spot title 3"
+#~ msgstr "Hong-Kong Island"
+
+#~ msgid "THE MOVIE"
+#~ msgstr "THE MOVIE"

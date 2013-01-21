@@ -1,0 +1,27 @@
+#!/usr/bin/env python -B
+# -*- coding: utf-8 -*-
+
+import argparse
+import os
+import sys
+
+path = os.path.abspath( os.path.join( os.path.dirname( __file__ ), "../lib/mmp/flash"))
+if not path in sys.path:
+	sys.path.insert( 1, path )
+del path
+
+import action
+
+parser = argparse.ArgumentParser( description="Flash project starter - v1beta" );
+parser.add_argument( "action",
+					 help="Create a new project inside the current folder",
+					 type=str,
+					 choices=[ "create", "generate" ] )
+args = parser.parse_args()
+
+script_dir_path = os.path.abspath( os.path.join( os.path.dirname( __file__ ), "../include/mmp/flash"))
+
+if args.action == "create":
+	action.Create( script_dir_path ).create()
+elif args.action == "generate":
+	action.Generate( script_dir_path ).generate()

@@ -1,0 +1,13 @@
+<manifest>
+	<conf>
+		<locales default='fr_FR' country="FR">
+			<fr_FR fontID='fonts' styleID='main' />
+		</locales>
+		<fonts>
+			<font id='fonts' file='fonts.swf' />
+		</fonts>
+		<styles>
+			<style id='main' file='main.css' />
+		</styles>
+	</conf>
+</manifest>

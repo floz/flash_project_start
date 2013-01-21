@@ -1,0 +1,1 @@
+package com.makemepulse.ui.form.validator {    /**     * @author Nicolas Rajabaly - nicolas@makemepulse.com     */    public interface IValidator {    	    	function isValid(o:*=null):Boolean;    }}

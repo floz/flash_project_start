@@ -1,0 +1,29 @@
+<data>
+	<package>
+		<prefix>com</prefix>
+		<client>clientname</client>
+		<project>randomproject</project>
+	</package>
+	
+	<options>
+		<!-- true/false -->
+		<hasLoader>true</hasLoader>
+	</options>
+
+	<modules>
+		<!--
+			Permet de générer les différents .as des modules/navigation	via 
+			'mmp generate' exécuté dans le dossier du projet.
+
+			Exemple: 
+
+			<module id='site'>
+				<module id='home'>
+					<module id='inscription' />
+					<module id='gallery' />
+				</module>	
+				<module id='help' />
+			</module>
+		-->
+	</modules>
+</data>
